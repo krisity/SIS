@@ -26,9 +26,23 @@ There are different modules that include:
   - check their personal information;
   - check their faculty and specialty data;
   - check their grades;
-  
 
+| STUDENT | ADMIN |
+| --- | --- |
+| ![](Screenshots/17.png) | ![](Screenshots/18.png) |
 
-
-
+| SCREENSHOT | DESCRIPTION |
+| --- | --- |
+| ![](Screenshots/1.png) | Admin panel |
+| ![](Screenshots/2.png) | Register new student form |
+| ![](Screenshots/3.png) | Register new student form - filled |
+| ![](Screenshots/4.png) | Success message after registering new student |
+| ![](Screenshots/5.png) | Update student table - list with all registered students |
+| ![](Screenshots/6.png) | Update student info - filled form |
+| ![](Screenshots/9.png) | Student grades |
+| ![](Screenshots/10.png) | Student grades - updating specific student grades|
+| ![](Screenshots/12.png) | Login screen - invalid credentials error |
+| ![](Screenshots/13.png) | Welcome page |
+| ![](Screenshots/14.png) | Student profile page |
+| ![](Screenshots/15.png) | Student grades page |
 
