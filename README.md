@@ -16,13 +16,13 @@ Super simple student information system done with Java. There is no implementati
 The project uses JSP technology
 
 There are different modules that include:
-- Sign in module;
-- Administration panel where admin users can:
+- **Sign in module**;
+- **Administration panel where admin users can**:
   - regsiter students;
   - edit student info;
   - create and edit student grades;
   - delete a student;
-- Student panel where students can:
+- **Student panel where students can**:
   - check their personal information;
   - check their faculty and specialty data;
   - check their grades;
